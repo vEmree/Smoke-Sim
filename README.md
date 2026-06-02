@@ -1,1 +1,1 @@
-Simple C based Smoke Simulation
+Simple fluid based Smoke Simulation in C
